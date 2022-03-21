@@ -1,4 +1,4 @@
-Live Server(http://obsequious-bead.surge.sh/)
+[Live Server](http://obsequious-bead.surge.sh/)
 
 # Getting Started with Create React App
 
